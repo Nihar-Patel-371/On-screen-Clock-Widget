@@ -17,9 +17,9 @@ Customizable on-screen widget that displays the time in an analog and digital fo
 3. [Installation](#installation)
 4. [Customization](#customization)
 5. [Screenshots](#screenshots)
-6. [Version History](#version-history)
-7. [Contributing](#contributing)
-8. [License](#license)
+6. [Contribution and Issues](#contribution-and-issues)
+7. [License](#license)
+8. [Donate](#donate)
 9. [Contact](#contact)
 
 ## Purpose
@@ -58,13 +58,7 @@ The Clock Widget allows various customizations:
 ![Analog Clock](screenshots/analog.png)
 *Analog Clock*
 
-## Version History
-
-v1.0.0: Initial release with basic features.
-v1.1.0: Added customization options.
-v1.2.0: Improved user interface and performance enhancements.
-
-## Contributing & Issues
+## Contribution and Issues
 
 Contributions are welcomed from the community! To contribute:
 
@@ -76,7 +70,13 @@ It will be a great help to me, if you can list the issues and bugs faced while u
 </a>
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
+
+## Donate
+
+Help and support to maintain the development of the software
+
+[![paypal](https://img.shields.io/badge/paypal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/NiharPatel856)
 
 ## Contact
 For any questions or suggestions, feel free to contact me at:
