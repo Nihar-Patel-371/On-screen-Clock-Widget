@@ -52,14 +52,14 @@ The Clock Widget allows various customizations:
 
 *Digital & Analog Customization Window* 
 
-<p float="left">
+<p float="center">
   <img src="screenshots/customization_pannel_digital.png" width="500" />
   <img src="screenshots/customization_pannel_analog.png" width="500" />
 </p>
 
 ## Screenshots
 
-<p float="left">
+<p float="center">
   <img src="screenshots/analog_clock.png" width="500" />
   <img src="screenshots/analog_clock_full.png" width="500" />
   <img src="screenshots/digital_clock.png" width="500" />
