@@ -52,11 +52,13 @@ The Clock Widget allows various customizations:
 
 ## Screenshots
 
-![Digital Clock](screenshots/digital.png)
-*Digital Clock*
+*Digital & Analog Customization Window* 
 
-![Analog Clock](screenshots/analog.png)
-*Analog Clock*
+<p float="left">
+  <img src="screenshots/customization_pannel_digital.png" width="500" />
+  <img src="screenshots/customization_pannel_analog.png" width="500" />
+</p>
+
 
 ## Contribution and Issues
 
