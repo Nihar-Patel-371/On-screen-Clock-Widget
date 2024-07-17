@@ -50,13 +50,21 @@ The Clock Widget allows various customizations:
 - Style: Select different styles for the clock display.
 - Opacity: Set the opacity level for better visibility.
 
-## Screenshots
-
 *Digital & Analog Customization Window* 
 
 <p float="left">
   <img src="screenshots/customization_pannel_digital.png" width="500" />
   <img src="screenshots/customization_pannel_analog.png" width="500" />
+</p>
+
+## Screenshots
+
+<p float="left">
+  <img src="screenshots/analog_clock.png" width="500" />
+  <img src="screenshots/analog_clock_full.png" width="500" />
+  <img src="screenshots/digital_clock.png" width="500" />
+  <img src="screenshots/digital_clock_full.png" width="500" />
+  <img src="screenshots/digital_clock_full_with_alpha.png" width="500" />
 </p>
 
 
