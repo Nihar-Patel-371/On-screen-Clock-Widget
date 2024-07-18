@@ -60,11 +60,11 @@ The Clock Widget allows various customizations:
 ## Screenshots
 
 <p float="center">
-  <img src="screenshots/analog_clock.png" width="500" />
   <img src="screenshots/analog_clock_full.png" width="500" />
-  <img src="screenshots/digital_clock.png" width="500" />
-  <img src="screenshots/digital_clock_full.png" width="500" />
+  <img src="screenshots/analog_clock.png" width="500" />
   <img src="screenshots/digital_clock_full_with_alpha.png" width="500" />
+  <img src="screenshots/digital_clock_full.png" width="500" />
+  <img src="screenshots/digital_clock.png" width="500" />
 </p>
 
 
