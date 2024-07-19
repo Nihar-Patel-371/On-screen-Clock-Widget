@@ -72,10 +72,10 @@ Contributions are welcomed from the community! To contribute:
 
 It will be a great help to me, if you can list the issues and bugs faced while using, or features which you would like to have in the program in the upcoming update.
 
-
-<a href="https://github.com/Nihar-Patel-371/On-screen-Clock/graphs/contributors">
-  <img class="dark-light" src="https://contrib.rocks/image?repo=Nihar-Patel-371/On-screen-Clock&anon=0&columns=25&max=100&r=true" alt="No-contributors right now, be the First one..."/>
+<a href="https://github.com/Nihar-Patel-371/On-screen-Clock-Widget/graphs/contributors">
+  <img class="dark-light" src="https://contrib.rocks/image?repo=Nihar-Patel-371/On-screen-Clock-Widget&anon=0&columns=25&max=100&r=true" />
 </a>
+
 
 ## License
 This project is licensed under the MIT License.
