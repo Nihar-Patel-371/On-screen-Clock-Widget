@@ -2,12 +2,12 @@
 
 Customizable on-screen widget that displays the time in an analog and digital format. Perfect for keeping track of time without disrupting your workflow.
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Nihar-Patel-371/On-screen-Clock-Widget)
-![GitHub forks](https://img.shields.io/github/forks/Nihar-Patel-371/On-screen-Clock-Widget)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Nihar-Patel-371/On-screen-Clock-Widget)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/Nihar-Patel-371/On-screen-Clock-Widget)
-![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/Nihar-Patel-371/On-screen-Clock-Widget)
-![GitHub License](https://img.shields.io/github/license/Nihar-Patel-371/On-screen-Clock-Widget)
+![GitHub Repo stars](https://img.shields.io/github/stars/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge&logoColor=%234fd6d4)
+![GitHub forks](https://img.shields.io/github/forks/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)
+![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)
 
 ## Table of Contents
 
