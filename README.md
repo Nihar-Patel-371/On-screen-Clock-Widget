@@ -7,7 +7,8 @@ Customizable on-screen widget that displays the time in an analog and digital fo
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)
 ![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
+<!--![GitHub License](https://img.shields.io/github/license/Nihar-Patel-371/On-screen-Clock-Widget?style=for-the-badge)-->
 
 ## Table of Contents
 
