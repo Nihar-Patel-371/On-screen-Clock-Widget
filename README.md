@@ -2,13 +2,12 @@
 
 Customizable on-screen widget that displays the time in an analog and digital format. Perfect for keeping track of time without disrupting your workflow.
 
-
-<a href="https://github.com/Nihar-Patel-371/On-screen-Clock/stargazers"><img src="https://img.shields.io/github/stars/Nihar-Patel-371/On-screen-Clock" alt="Stars Badge"/></a>
-<a href="https://github.com/Nihar-Patel-371/On-screen-Clock/network/members"><img src="https://img.shields.io/github/forks/Nihar-Patel-371/On-screen-Clock" alt="Forks Badge"/></a>
-<a href="https://github.com/Nihar-Patel-371/On-screen-Clock/pulls"><img src="https://img.shields.io/github/issues-pr/Nihar-Patel-371/On-screen-Clock" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Nihar-Patel-371/On-screen-Clock/issues"><img src="https://img.shields.io/github/issues/Nihar-Patel-371/On-screen-Clock" alt="Issues Badge"/></a>
-<a href="https://github.com/Nihar-Patel-371/On-screen-Clock/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Nihar-Patel-371/On-screen-Clock?color=2b9348"></a>
-<a href="https://github.com/Nihar-Patel-371/On-screen-Clock/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Nihar-Patel-371/On-screen-Clock?color=2b9348" alt="License Badge"/></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/Nihar-Patel-371/On-screen-Clock-Widget)
+![GitHub forks](https://img.shields.io/github/forks/Nihar-Patel-371/On-screen-Clock-Widget)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Nihar-Patel-371/On-screen-Clock-Widget)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/Nihar-Patel-371/On-screen-Clock-Widget)
+![GitHub contributors from allcontributors.org](https://img.shields.io/github/all-contributors/Nihar-Patel-371/On-screen-Clock-Widget)
+![GitHub License](https://img.shields.io/github/license/Nihar-Patel-371/On-screen-Clock-Widget)
 
 ## Table of Contents
 
@@ -37,9 +36,8 @@ The Clock Widget is designed to help users keep track of time more effectively w
 
 To install the Clock Widget, follow these steps:
 
-1. Download the latest `.exe` file from the [releases page](https://github.com/Nihar-Patel-371/On-screen-Clock/releases).
-2. Run the downloaded `.exe` file.
-3. Follow the on-screen instructions to complete the installation.
+1. Download the folder `On-screen Clock Widget` from the [On-screen Clock Widget](https://github.com/Nihar-Patel-371/On-screen-Clock-Widget).
+2. Run the downloaded `On-screen Clock Widget.exe` file present in the `On-screen Clock Widget` folder.
 
 ## Customization
 
@@ -76,7 +74,7 @@ It will be a great help to me, if you can list the issues and bugs faced while u
 
 
 <a href="https://github.com/Nihar-Patel-371/On-screen-Clock/graphs/contributors">
-  <img class="dark-light" src="https://contrib.rocks/image?repo=Nihar-Patel-371/On-screen-Clock&anon=0&columns=25&max=100&r=true" />
+  <img class="dark-light" src="https://contrib.rocks/image?repo=Nihar-Patel-371/On-screen-Clock&anon=0&columns=25&max=100&r=true" alt="No-contributors right now, be the First one..."/>
 </a>
 
 ## License
