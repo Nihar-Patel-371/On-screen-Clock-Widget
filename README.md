@@ -78,7 +78,7 @@ It will be a great help to me, if you can list the issues and bugs faced while u
 
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the Apache-2.0 License.
 
 ## Donate
 
